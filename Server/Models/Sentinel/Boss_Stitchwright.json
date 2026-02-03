@@ -1,0 +1,96 @@
+{
+  "Model": "NPC/Sentinel/Boss_Stitchwright/Models/Echo_Final_Boss.blockymodel",
+  "Texture": "NPC/Sentinel/Boss_Stitchwright/Models/Echo_Final_Boss.png",
+  "HitBox": {
+    "Min": {
+      "X": -0.5,
+      "Z": -0.5,
+      "Y": 0
+    },
+    "Max": {
+      "X": 0.5,
+      "Z": 0.5,
+      "Y": 2.5
+    }
+  },
+  "PhysicsValues": {
+    "Mass": 1
+  },
+  "AnimationSets": {
+    "Idle": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Boss_Stitchwright/Animations/Idle_Battle.blockyanim",
+          "Speed": 1,
+          "Looping": true,
+          "BlendingDuration": 1
+        }
+      ]
+    },
+    "Walk": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Boss_Stitchwright/Animations/Idle_Battle.blockyanim",
+          "Speed": 1,
+          "Looping": true
+        }
+      ]
+    },
+    "WalkBackward": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Boss_Stitchwright/Animations/Idle_Flavor.blockyanim",
+          "Looping": true
+        }
+      ]
+    },
+    "Run": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Sun_Drone/Animations/Idle.blockyanim",
+          "Looping": true
+        }
+      ]
+    },
+    "Alerted": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Boss_Stitchwright/Animations/Idle_Flavor.blockyanim"
+        }
+      ]
+    },
+    "Hurt": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Boss_Stitchwright/Animations/Idle_Flavor.blockyanim",
+          "Looping": false,
+          "BlendingDuration": 0.1
+        }
+      ]
+    },
+    "Death": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Boss_Stitchwright/Animations/Death.blockyanim",
+          "Looping": false
+        }
+      ]
+    }
+  },
+  "EyeHeight": 2,
+  "Icon": "Icons/ModelsGenerated/Boss_Stitchwright.png",
+  "IconProperties": {
+    "Scale": 0.1,
+    "Rotation": [
+      0,
+      30,
+      0
+    ],
+    "Translation": [
+      -57,
+      -150
+    ]
+  },
+  "MinScale": 1,
+  "MaxScale": 1
+}

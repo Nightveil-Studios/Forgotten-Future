@@ -1,0 +1,23 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Spirit",
+  "Modify": {
+    "Appearance": "Boss_Stitchwright",
+    "DropList": "Drop_Spirit_Ember",
+    "MaxHealth": 1555,
+    "_CombatConfig": {
+      "EntityEffect": "Immunity_Fire"
+    },
+    "IsMemory": false,
+    "MemoriesCategory": "Elemental",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "Stitchwright",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}

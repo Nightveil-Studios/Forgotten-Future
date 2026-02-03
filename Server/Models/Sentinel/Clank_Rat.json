@@ -1,0 +1,93 @@
+{
+  "Model": "NPC/Sentinel/Clankrat/Models/Model.blockymodel",
+  "Texture": "NPC/Sentinel/Clankrat/Models/Texture.png",
+  "HitBox": {
+    "Min": {
+      "X": -0.5,
+      "Z": -0.5,
+      "Y": 0
+    },
+    "Max": {
+      "X": 0.5,
+      "Z": 0.5,
+      "Y": 2.5
+    }
+  },
+  "PhysicsValues": {
+    "Mass": 1
+  },
+  "AnimationSets": {
+    "Idle": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Default/Idle.blockyanim",
+          "Speed": 1,
+          "Looping": true
+        }
+      ]
+    },
+    "Walk": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Default/Idle.blockyanim",
+          "Speed": 1,
+          "Looping": true
+        }
+      ]
+    },
+    "WalkBackward": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Default/Idle.blockyanim",
+          "Looping": true
+        }
+      ]
+    },
+    "Run": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Default/Idle.blockyanim",
+          "Looping": true
+        }
+      ]
+    },
+    "Alerted": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Default/Idle.blockyanim"
+        }
+      ]
+    },
+    "Hurt": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Damage/Hurt.blockyanim",
+          "Looping": false,
+          "BlendingDuration": 0.1
+        }
+      ]
+    },
+    "Death": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Damage/Death.blockyanim",
+          "Looping": false
+        }
+      ]
+    }
+  },
+  "EyeHeight": 0.25,
+  "Icon": "Icons/ModelsGenerated/Clank_Rat.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      -3,
+      -17
+    ]
+  }
+}

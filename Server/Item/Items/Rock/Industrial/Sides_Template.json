@@ -1,0 +1,58 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Rock_Industrial_Brick.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Rock_Basalt_Brick.png",
+  "Set": "Rock_Basalt_Brick",
+  "Recipe": {
+    "Input": [
+      {
+        "Quantity": 1,
+        "ResourceTypeId": "Rock_Basalt"
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Builders",
+        "Type": "StructuralCrafting",
+        "Categories": [
+          "Bricks"
+        ]
+      }
+    ],
+    "OutputQuantity": 1,
+    "TimeSeconds": 0
+  },
+  "BlockType": {
+    "Gathering": {
+      "Breaking": {
+        "GatherType": "Rocks"
+      }
+    },
+    "Textures": [
+      {
+        "Sides": "BlockTextures/Industrial_Brick.png",
+        "UpDown": "BlockTextures/Industrial_Brick_Top.png",
+        "Weight": 1
+      }
+    ],
+    "ParticleColor": "#F8F8F8"
+  },
+  "ResourceTypes": [
+    {
+      "Id": "Bricks"
+    },
+    {
+      "Id": "Rock_Basalt_Brick"
+    }
+  ],
+  "Tags": {
+    "Type": [
+      "Rock"
+    ],
+    "Family": [
+      "Basalt"
+    ]
+  },
+  "Parent": "Rock_Stone_Brick"
+}

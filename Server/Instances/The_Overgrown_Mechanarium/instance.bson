@@ -1,0 +1,50 @@
+{
+  "$Comment": "This instanced world spawns a Default world from the Hytale Generator",
+  "RequiredPlugins": {},
+  "ChunkStorage": {
+    "Type": "Hytale"
+  },
+  "IsPvpEnabled": false,
+  "IsSpawningNPC": true,
+  "GameTime": "0001-01-01T20:00:00Z",
+  "UUID": {
+    "$binary": "AZKxiVAMQfWIS0qBsBfjzQ==",
+    "$type": "04"
+  },
+  "GameplayConfig": "Default_Instance",
+  "WorldMap": {
+    "Type": "Disabled"
+  },
+  "IsCompassUpdating": true,
+  "IsTicking": true,
+  "Seed": 1588599145664,
+  "IsGameTimePaused": false,
+  "IsObjectiveMarkersEnabled": true,
+  "IsAllNPCFrozen": false,
+  "IsSavingPlayers": true,
+  "WorldGen": {
+    "Type": "HytaleGenerator",
+    "WorldStructure": "The_Overgrown_Mechanarium_WorldStructureAsset"
+  },
+  "SpawnProvider": {
+    "Id": "Global",
+    "SpawnPoint": {
+      "X": 2.5,
+      "Y": 107,
+      "Z": 43,
+      "Pitch": 0.0,
+      "Yaw": 0.0,
+      "Roll": 0.0
+    }
+  },
+  "IsSpawnMarkersEnabled": true,
+  "Instance": {
+    "RemovalConditions": [
+      {
+        "Type": "WorldEmpty"
+      }
+    ]
+  },
+  "DeleteOnRemove": true,
+  "Version": 2
+}

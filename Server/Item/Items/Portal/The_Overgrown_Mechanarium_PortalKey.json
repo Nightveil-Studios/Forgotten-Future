@@ -1,0 +1,72 @@
+{
+  "TranslationProperties": {
+    "Name": "ForgottenFuture.items.PortalKey_The_Overgrown_Mechanarium.name",
+    "Description": "ForgottenFuture.items.PortalKey_The_Overgrown_Mechanarium.description"
+  },
+  "Icon": "Icons/ItemsGenerated/The_Overgrown_Mechanarium_PortalKey.png",
+  "Categories": [
+    "Blocks.Portals"
+  ],
+  "PortalKey": {
+    "PortalType": "The_Overgrown_Mechanarium_PortalType",
+    "TimeLimitSeconds": 1200
+  },
+  "BlockType": {
+    "DrawType": "Model",
+    "Material": "Solid",
+    "Opacity": "Transparent",
+    "CustomModel": "Blocks/Miscellaneous/Portal_Shard.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Miscellaneous/The_Overgrown_Mechanarium_Shard_Texture.png",
+        "Weight": 1
+      }
+    ]
+  },
+  "Recipe": {
+    "TimeSeconds": 5,
+    "KnowledgeRequired": false,
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Thorium",
+        "Quantity": 5
+      },
+      {
+        "ItemId": "Ingredient_Crystal_Red",
+        "Quantity": 10
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Id": "Arcanebench",
+        "Type": "Crafting",
+        "Categories": [
+          "Arcane_Portals"
+        ]
+      }
+    ],
+    "RequiredMemoriesLevel": 1
+  },
+  "PlayerAnimationsId": "Item",
+  "Tags": {
+    "Type": [
+      "Portal",
+      "Temporary"
+    ]
+  },
+  "Quality": "Uncommon",
+  "MaxStack": 1,
+  "ItemLevel": 51,
+  "IconProperties": {
+    "Scale": 1.2,
+    "Rotation": [
+      22.5,
+      140,
+      22.5
+    ],
+    "Translation": [
+      -10,
+      -16
+    ]
+  }
+}

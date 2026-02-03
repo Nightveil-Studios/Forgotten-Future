@@ -1,0 +1,12 @@
+{
+  "InstanceId": "The_Overgrown_Mechanarium",
+  "Description": {
+    "DisplayName": "ForgottenFuture.portals.The_Overgrown_Mechanarium",
+    "FlavorText": "ForgottenFuture.portals.The_Overgrown_Mechanarium.description",
+    "ThemeColor": "#e81634ec",
+    "SplashImage": "The_Overgrown_Mechanarium_PortalSplash.png",
+    "Tips": [
+      "ForgottenFuture.portals.The_Overgrown_Mechanarium.tip1"
+    ]
+  }
+}

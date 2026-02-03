@@ -1,0 +1,115 @@
+{
+  "Model": "NPC/Sentinel/Sun_Drone/Models/Sun_Drone.blockymodel",
+  "Texture": "NPC/Sentinel/Sun_Drone/Models/Sun_Drone_Texture.png",
+  "HitBox": {
+    "Min": {
+      "X": -0.5,
+      "Z": -0.5,
+      "Y": 0
+    },
+    "Max": {
+      "X": 0.5,
+      "Z": 0.5,
+      "Y": 2.5
+    }
+  },
+  "PhysicsValues": {
+    "Mass": 1
+  },
+  "AnimationSets": {
+    "Idle": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Sun_Drone/Animations/Idle.blockyanim",
+          "Speed": 1,
+          "Looping": true,
+          "BlendingDuration": 1
+        }
+      ]
+    },
+    "Walk": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Sun_Drone/Animations/Idle.blockyanim",
+          "Speed": 1,
+          "Looping": true
+        }
+      ]
+    },
+    "WalkBackward": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Sun_Drone/Animations/Idle.blockyanim",
+          "Looping": true
+        }
+      ]
+    },
+    "Run": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Sun_Drone/Animations/Idle.blockyanim",
+          "Looping": true
+        }
+      ]
+    },
+    "Alerted": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Sun_Drone/Animations/Idle.blockyanim"
+        }
+      ]
+    },
+    "Hurt": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Damage/Hurt.blockyanim",
+          "Looping": false,
+          "BlendingDuration": 0.1
+        }
+      ]
+    },
+    "Death": {
+      "Animations": [
+        {
+          "Animation": "NPC/Sentinel/Clankrat/Animations/Damage/Death.blockyanim",
+          "Looping": false
+        }
+      ]
+    }
+  },
+  "EyeHeight": 1,
+  "MinScale": 1,
+  "MaxScale": 1.4,
+  "Particles": [
+    {
+      "PositionOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0.1
+      },
+      "SystemId": "Spirit_Fire_Jaw",
+      "TargetNodeName": "The_Sphere"
+    },
+    {
+      "PositionOffset": {},
+      "SystemId": "Golem_Fire_Glow_Arm",
+      "TargetNodeName": "The_Sphere"
+    }
+  ],
+  "Light": {
+    "Color": "#d73"
+  },
+  "Icon": "Icons/ModelsGenerated/Sun_Drone.png",
+  "IconProperties": {
+    "Scale": 0.2,
+    "Rotation": [
+      0,
+      34,
+      0
+    ],
+    "Translation": [
+      -2,
+      -82
+    ]
+  }
+}

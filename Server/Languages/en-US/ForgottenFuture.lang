@@ -1,0 +1,13 @@
+items.PortalKey_The_Overgrown_Mechanarium.name = Fragment: The Overgrown Mechanarium
+items.PortalKey_The_Overgrown_Mechanarium.description = <msg key="server.items.PortalKey.description"/>\n\n<i>A fractured shard humming with dormant machine code. It reveals the hidden path to <color is="#e81634">The Overgrown Mechanarium</color>, guiding its bearer directly to the <color is="#e81634">Stitchwright’s Command Center</color>. From here, the machines are shaped, controlled, and reborn.</i>\n\n<color is="#00ffff">Added by Forgotten Future.</color>
+
+portals.The_Overgrown_Mechanarium=The Overgrown Mechanarium
+portals.The_Overgrown_Mechanarium.description=An ancient machine-bound device marking the location of one of the <color is="#e81634">Overseer's</color> controlled sites.\n\
+\n\
+<color is="#e81634">The Overgrown Mechanarium</color> serves as a production base for the <color is="#e81634">Stitchwright</color>, a puppet machine tasked with constructing and directing lesser constructs. Discovering other devices may reveal more sites like this one.\n\
+\n\
+<color is="#e81634"><b>Notice: This portal system is currently under construction. Instability, visual issues, and unexpected behavior may occur.</b></color>\n\
+\n\
+<color is="#00ffff">Added by <b>Forgotten Future.</b></color>
+
+portals.The_Overgrown_Mechanarium.tip1=<color is="#e81634">Recommended number of players: 1-2</color>

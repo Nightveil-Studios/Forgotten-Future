@@ -1,0 +1,28 @@
+{
+  "Parent": "Default",
+  "World": {
+    "AllowBlockBreaking": true,
+    "AllowBlockGathering": true,
+    "AllowBlockPlacement": true,
+    "BlockPlacementFragilityTimer": 100000
+  },
+  "Death": {
+    "LoseItems": false,
+    "RespawnController": {
+      "Type": "WorldSpawnPoint"
+    }
+  },
+  "Plugin": {
+    "ForgottenTemple": {
+      "MinYRespawn": 110,
+      "RespawnSound": "SFX_Z3_Emit_Hedera_FX"
+    },
+    "Reputation": {
+      "ReputationStorage": "PerPlayer"
+    }
+  },
+  "WorldMap": {
+    "DisplayDeathMarker": true,
+    "DisplayWarps": true
+  }
+}

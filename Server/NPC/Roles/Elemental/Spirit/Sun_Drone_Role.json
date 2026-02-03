@@ -1,0 +1,23 @@
+{
+  "Type": "Variant",
+  "Reference": "Template_Spirit",
+  "Modify": {
+    "Appearance": "Sun_Drone",
+    "DropList": "Drop_Spirit_Ember",
+    "MaxHealth": 126,
+    "_CombatConfig": {
+      "EntityEffect": "Immunity_Fire"
+    },
+    "IsMemory": false,
+    "MemoriesCategory": "Elemental",
+    "NameTranslationKey": {
+      "Compute": "NameTranslationKey"
+    }
+  },
+  "Parameters": {
+    "NameTranslationKey": {
+      "Value": "Sun Drone",
+      "Description": "Translation key for NPC name display"
+    }
+  }
+}
