@@ -1,3 +1,24 @@
+items.Catwalk_Stairs_Center.name = Catwalk Stairs Center
+items.Catwalk_Stairs_Left.name = Catwalk Stairs Left
+items.Catwalk_Stairs_Right.name = Catwalk Stairs Right
+items.Darkmetal_Horizontal.name = Darkmetal Horizontal Panel
+items.Darkmetal_Junction.name = Darkmetal Junction Panel
+items.Darkmetal_Smooth.name = Smooth Darkmetal Panel
+items.Darkmetal_Smooth_Slab.name = Smooth Darkmetal Half Panel
+items.Darkmetal_Vertical.name = Darkmetal Vertical Panel
+items.Floor_Hex_Tiles.name = Hexagonal Darksteel Tiles
+items.Floor_Tiles_Horizontal.name = Horizontal Darksteel Tiles
+items.Floor_Tiles_Vertical.name = Vertical Darksteel Tiles
+items.Light_Tiles.name = Smooth Starsteel Tiles
+items.Lightmetal_Base.name = Lightmetal Base Junction Panel
+items.Lightmetal_Decal.name = Lightmetal Decal Panel
+items.Lightmetal_Horizontal.name = Horizontal Lightmetal Panel
+items.Lightmetal_Junction.name = Lightmetal Junction Panel
+items.Lightmetal_Smooth.name = Smooth Lightmetal Panel
+items.Lightmetal_Top.name = Lightmetal Top Junction Panel
+items.Lightmetal_Vertical.name = Vertical Lightmetal Panel
+items.Pipe_Shell.name = Pipe Shell
+
 items.PortalKey_The_Overgrown_Mechanarium.name = Fragment: The Overgrown Mechanarium
 items.PortalKey_The_Overgrown_Mechanarium.description = <msg key="server.items.PortalKey.description"/>\n\n<i>A fractured shard humming with dormant machine code. It reveals the hidden path to <color is="#e81634">The Overgrown Mechanarium</color>, guiding its bearer directly to the <color is="#e81634">Stitchwright’s Command Center</color>. From here, the machines are shaped, controlled, and reborn.</i>\n\n<color is="#00ffff">Added by Forgotten Future.</color>
 
