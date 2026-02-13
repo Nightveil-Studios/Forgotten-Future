@@ -1,54 +1,54 @@
 # Forgotten Future
 
-**Forgotten Future** is a work in progress (WIP) mod for **Hytale** — but it is **playable and testable right now**.
+**Forgotten Future** is a dark **Hytale** mod focused on ancient machine civilizations and forgotten technology.
+
+> 🚧 **Work In Progress — Playable Now**
+>
+> The mod is currently in active development, but you can **download and test it today**.  
+> Expect ongoing updates, balance changes, and expanding content.
 
 ---
 
-## ⚙️ About the Mod
+## ⚙️ Premise
 
-Forgotten Future is centered around **ancient machine civilizations**, **hidden facilities**, and **overseer-controlled constructs** scattered across the world.
+Long ago, an ancient race built machines designed to **outlast their creators**.
 
-Players will:
+For over a thousand years, these constructs slept beneath overgrown foundries and buried facilities. Now, as the **Overseer returns**, the machines awaken — and new constructs are being forged for unknown and dangerous plans.
 
-- Discover **abandoned outposts**
-- Battle **mechanical guardians**
-- Explore **overgrown machine bases**
-- Uncover the hidden purpose behind long-forgotten creations
-
-The world tells the story — you just have to piece it together.
+The world is no longer dormant.
 
 ---
 
-## 🚧 Current Status
+## 🌍 What to Expect
 
-This project is **actively in development**.
+As you explore, you will:
 
-While many systems and structures are already implemented, features, balance, and content are still evolving.
+- Discover **abandoned outposts** reclaimed by nature  
+- Venture into **hidden underground facilities**  
+- Battle powerful **mechanical guardians**  
+- Explore massive **overgrown machine bases**  
+- Slowly uncover the purpose behind these forgotten creations  
 
-Expect:
-- Ongoing updates  
-- Tweaks and changes  
-- Expanding lore and encounters  
-
----
-
-## 🧪 Playtesting
-
-You can **download and test the mod now**.
-
-Feedback, bug reports, and suggestions are highly appreciated and help shape future updates.
+Environmental storytelling and scattered remnants of the past reveal a deeper mystery behind the Overseer and its creations.
 
 ---
 
-## 📌 Vision
+## 🧪 Testing & Feedback
+
+The mod is **actively evolving**, and player feedback is essential.
+
+If you encounter bugs, balance issues, or have suggestions, your input helps shape the future of the project.
+
+---
+
+## 🔮 Vision
 
 Forgotten Future aims to deliver:
 
-- A sense of **mystery and discovery**
-- Challenging **mechanical encounters**
-- Environmental storytelling through ruins and technology
-- A slowly unfolding narrative hidden within the world itself
+- A dark, mysterious atmosphere  
+- Challenging mechanical encounters  
+- Ancient technology intertwined with nature  
+- A slowly unfolding narrative hidden within the world itself  
 
----
-
-Stay tuned — the machines are only beginning to wake.
+The machines have awakened.  
+And they were never meant to sleep forever.
