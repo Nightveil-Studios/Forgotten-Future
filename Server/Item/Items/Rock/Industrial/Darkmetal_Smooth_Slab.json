@@ -1,8 +1,8 @@
 {
   "TranslationProperties": {
-    "Name": "ForgottenFuture.items.Lightmetal_Top.name"
+    "Name": "ForgottenFuture.items.Darkmetal_Smooth_Slab.name"
   },
-  "Icon": "Icons/ItemsGenerated/Lightmetal_Top.png",
+  "Icon": "Icons/ItemsGenerated/Darkmetal_Smooth_Slab.png",
   "Set": "Rock_Basalt",
   "Recipe": {
     "Input": [
@@ -28,15 +28,14 @@
         "GatherType": "Rocks"
       }
     },
-    "Textures": [
+    "ParticleColor": "#F8F8F8",
+    "Parent": "Wood_Softwood_Planks_Half",
+    "DrawType": "Model",
+    "CustomModelTexture": [
       {
-        "Sides": "BlockTextures/Lightmetal_Top.png",
-        "Up": "BlockTextures/Darkmetal_Junction.png",
-        "Down": "BlockTextures/Lightmetal_Junction.png",
-        "Weight": 1
+        "Texture": "BlockTextures/Darkmetal_Smooth.png"
       }
-    ],
-    "ParticleColor": "#F8F8F8"
+    ]
   },
   "ResourceTypes": [
     {
@@ -63,5 +62,7 @@
       0,
       -13.5
     ]
-  }
+  },
+  "Model": "Blocks/Structures/Base_Shapes/HalfBlock.blockymodel",
+  "Texture": "BlockTextures/Darkmetal_Smooth.png"
 }
