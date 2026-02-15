@@ -33,13 +33,12 @@
 ---
 >We hope to accept code contributions in the future once the mod is stable. For now, we are aware of many of the bugs and need to release a few patches before pulling testers in.
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-  <img width="1919" height="1048" alt="Screenshot 2026-02-03 144141" src="https://github.com/user-attachments/assets/1b6c2d63-db0b-4520-b4d3-b346d72f8ba1" />
-  <img width="1919" height="1055" alt="Screenshot 2026-02-03 145126" src="https://github.com/user-attachments/assets/cc9cc603-74f9-40a0-8bb6-8b8bc368ab3b" />
-  <img width="1919" height="1049" alt="Screenshot 2026-02-03 143744" src="https://github.com/user-attachments/assets/c7b3f09f-6604-477b-a739-0e48746b69dd" />
-</marquee>
+<img width="1919" height="1048" alt="Screenshot 2026-02-03 144141" src="https://github.com/user-attachments/assets/1b6c2d63-db0b-4520-b4d3-b346d72f8ba1" />
 
 
 *The machines have awakened,*
 
 *and they were never meant to sleep forever*
+
+
+<img width="1919" height="1049" alt="Screenshot 2026-02-03 143744" src="https://github.com/user-attachments/assets/c7b3f09f-6604-477b-a739-0e48746b69dd" />
