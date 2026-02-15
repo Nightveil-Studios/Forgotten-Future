@@ -1,54 +1,42 @@
-# Forgotten Future
+# Forgotten Future (ALPHA - For Testing Purposes Only)
 
-**Forgotten Future** is a dark **Hytale** mod focused on ancient machine civilizations and forgotten technology.
+**Description**
 
-> 🚧 **Work In Progress — Playable Now**
->
-> The mod is currently in active development, but you can **download and test it today**.  
-> Expect ongoing updates, balance changes, and expanding content.
+>Forgotten Future is a Hytale mod centered around ancient machine civilizations, hidden facilities, and overseer controlled constructs scattered across the world. Players uncover abandoned outposts, fight mechanical guardians, and explore overgrown machine bases while slowly revealing the purpose behind these forgotten creations.
 
+>The three monsters currently in this mod (Clankrat, Sun Drone, and Stitchwright) are not yet fully implemented. They have many animations completed, but they are not fully wired up yet. They can be viewed using the Entity Tool in creative mode. This mod currently includes one dungeon, "The Overgrown Mechanarium", which can be accessed using a dungeon portal key; however, it is WIP and not ready for survival
 ---
+**Download**
 
-## ⚙️ Premise
-
-Long ago, an ancient race built machines designed to **outlast their creators**.
-
-For over a thousand years, these constructs slept beneath overgrown foundries and buried facilities. Now, as the **Overseer returns**, the machines awaken — and new constructs are being forged for unknown and dangerous plans.
-
-The world is no longer dormant.
-
+>In our current pre-alpha state, the mod is ready to be published to Curseforge. In order to download, download this repo and place it in your mods folder, then it should show up in your mods list in game.
 ---
+**Current Features**
 
-## 🌍 What to Expect
+- Stitchwright (Boss)
+- Clankrat (Hostile Robot)
+- Sun Drone (Hostile Robot)
+- Custom light and dark metal block tilesets
+- Catwalks platforms and stairs
+- Custom lantern texture
+- Custom sliding door
+- Custom Portal Key
 
-As you explore, you will:
+**Planned Features**
 
-- Discover **abandoned outposts** reclaimed by nature  
-- Venture into **hidden underground facilities**  
-- Battle powerful **mechanical guardians**  
-- Explore massive **overgrown machine bases**  
-- Slowly uncover the purpose behind these forgotten creations  
-
-Environmental storytelling and scattered remnants of the past reveal a deeper mystery behind the Overseer and its creations.
-
+- More robots
+- Defense turrets
+- Custom roof lights
+- Rust and dirt overlay tileset
+- More lab equipment models
+- Rich Story Content
+- Custom items, tools, guns, and artifacts that we'll reveal later on ;)
 ---
+>We hope to accept code contributions in the future once the mod is stable. For now, we are aware of many of the bugs and need to release a few patches before pulling testers in.
 
-## 🧪 Testing & Feedback
 
-The mod is **actively evolving**, and player feedback is essential.
 
-If you encounter bugs, balance issues, or have suggestions, your input helps shape the future of the project.
 
----
 
-## 🔮 Vision
+*The machines have awakened,*
 
-Forgotten Future aims to deliver:
-
-- A dark, mysterious atmosphere  
-- Challenging mechanical encounters  
-- Ancient technology intertwined with nature  
-- A slowly unfolding narrative hidden within the world itself  
-
-The machines have awakened.  
-And they were never meant to sleep forever.
+*and they were never meant to sleep forever*
