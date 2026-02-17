@@ -1,8 +1,8 @@
 {
   "Group": "Nightveil Studios",
   "Name": "Forgotten Futures",
-  "Version": "1.0.0",
-  "Description": "Forgotten Futures is a dark Hytale mod about an ancient race that built machines to outlast them. After sleeping over a thousand years beneath overgrown foundries, they awaken as the Overseer returns and begins creating new constructs for dangerous plans.",
+  "Version": "pre-alpha v0.0.2",
+  "Description": "Forgotten Future is a dark Hytale mod about an ancient race that built machines to outlast them. After sleeping over a thousand years beneath overgrown foundries, they awaken as the Overseer returns and begins creating new constructs for dangerous plans.",
   "Authors": [
     {
       "Name": "Nightshade",
@@ -12,7 +12,7 @@
     {
       "Name": "HyDefy",
       "Email": "",
-      "Url": ""
+      "Url": "https://github.com/HyDefy"
     },
     {
       "Name": "nonparelli",
